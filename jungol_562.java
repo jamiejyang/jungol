@@ -19,8 +19,8 @@ public class jungol_562 {
 		
 		int odd = 0, even = 0;
 		for(int i = 0; i < ar.length; i++) {
-//			ar[0] : �汝鶾讕� 熱
-//			ar[1] : 礎熱廓簞 熱
+//			ar[0] : odd number
+//			ar[1] : even number
 			if(i % 2 == 0) {
 				odd += ar[i];
 			} else {
